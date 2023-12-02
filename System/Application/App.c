@@ -83,5 +83,5 @@ void appStart(void)
             exit(1);
         }
 
-    printf("Test\n");
+    printf("Succedded\n");
 }

@@ -3,7 +3,7 @@
 #include "App.h"
 int main()
 {
-    printf("Hello world!\n");
+    printf("ATM!\n");
     appStart();
     return 0;
 }
